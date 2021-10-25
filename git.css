@@ -35,3 +35,6 @@ div p{
 .card:hover{
     transform:rotateY(180deg);
   }
+footer{
+    margin: 5rem;
+  }
